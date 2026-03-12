@@ -18,10 +18,10 @@ from datetime import date, datetime, timedelta, timezone
 #   "City Name": (latitude, longitude, "IANA/Timezone")
 # File will be saved as docs/<city-name-lowercase>.ics
 CITIES = {
-    "Delingsdorf": (53.8167, 10.3167, "Europe/Berlin"),
-    "Burdaard":    (53.3000,  5.9833, "Europe/Amsterdam"),
-    "Berlin":      (52.5200, 13.4050, "Europe/Berlin"),
-    "Groningen":   (53.2194,  6.5665, "Europe/Amsterdam"),
+    "Hamburg":   (53.5753, 10.0153, "Europe/Berlin"),
+    "Groningen": (53.2194,  6.5665, "Europe/Amsterdam"),
+    "Burdaard":  (53.3000,  5.9833, "Europe/Amsterdam"),
+    "Berlin":    (52.5200, 13.4050, "Europe/Berlin"),
 }
 
 DAYS_BACK = 30   # how many past days to include / preserve
