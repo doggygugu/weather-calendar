@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weather Calendar//Hamburg//EN
+X-WR-CALNAME:🌤 Hamburg Weather
+X-WR-CALDESC:Daily weather forecast and history for Hamburg
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+END:VCALENDAR
